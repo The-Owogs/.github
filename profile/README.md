@@ -39,7 +39,7 @@
 </table>
 
 <p align="center">
-    ➡️ Explore more at <a href="https://github.com/TheOwogs"><b>The Owogs GitHub</b></a>
+    ➡️ Explore more at <a href="https://github.com/The-Owogs"><b>The Owogs GitHub</b></a>
 </p>
 
 ---
