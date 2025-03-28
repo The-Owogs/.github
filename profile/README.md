@@ -51,9 +51,16 @@
 
 ## 📜 Contribution Guidelines  
 We welcome **developers, designers, and tech enthusiasts** to contribute! To get started:  
- 
+ <h2>✅ Contribution Guidelines</h2>
+<ul>
+    <li>Follow code style and naming conventions.</li>
+    <li>Write clear commit messages.</li>
+    <li>Ensure well-documented code.</li>
+    <li>Test thoroughly before submitting.</li>
+</ul>
 
-📖 Read our [**Contribution Guide**](#) for detailed instructions.  
+
+📖 Read our [**Contribution Guide**](https://github.com/The-Owogs/.github/wiki/%F0%9F%9B%A0-How-to-Contribute-%E2%80%90-The-Owogs) for detailed instructions.  
 
 ---
 
