@@ -45,11 +45,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python, JavaScript, TypeScript  
-- **Frameworks**: Next.js, React, Express.js, Flask  
-- **Databases**: PostgreSQL, MongoDB, Firebase  
-- **DevOps & Cloud**: Docker, Vercel, Railway, GitHub Actions  
-- **Automation & Bots**: Telegram Bot API, Discord.js, Selenium  
+
 
 ---
 
