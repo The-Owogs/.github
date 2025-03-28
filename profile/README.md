@@ -64,7 +64,7 @@ We welcome **developers, designers, and tech enthusiasts** to contribute! To get
 ## 🌐 Connect With Us  
 - 📢 **Website**: [theowogs.vercel.app](https://theowogs.vercel.app)  
 - 🔹 **Telegram Community**: [Join Owogs](https://t.me/theowogs)
-- 🔹 **Discord Community**: [Join Owogs](https://t.me/theowogs)
+- 🔹 **Discord Community**: [Join Owogs](https://discord.gg/yvk82CKu9e)
 - 🔹 **X(Twitter)**: [Follow Us](https://x.com/theowogs) 
 - 📂 **GitHub**: [The Owogs Organization](https://github.com/The-Owogs)  
 
