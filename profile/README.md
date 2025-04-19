@@ -30,10 +30,10 @@
         <th>🔗 Repo</th>
     </tr>
     <tr>
-        <td><b>Musix Owogs</b></td>
-        <td>🎵 A powerful Telegram music bot with YouTube, Spotify, and SoundCloud support.</td>
-        <td>Python</td>
-        <td><a href="https://github.com/TheOwogs/musix-owogs-telegram-bot">Repo</a></td>
+        <td><b>Akademic</b></td>
+        <td>A 100% Free study resource hub for students without getting lost in the Sea of Browser Tabs.</td>
+        <td>HTML, CSS, JS, Vercel, Box</td>
+        <td><a href="#">Repo</a></td>
     </tr>
     
 </table>
