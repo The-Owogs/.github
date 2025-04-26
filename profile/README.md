@@ -33,7 +33,7 @@
         <td><b>Akademic</b></td>
         <td>A 100% Free study resource hub for students without getting lost in the Sea of Browser Tabs.</td>
         <td>HTML, CSS, JS, Vercel, Box</td>
-        <td><a href="#">Repo</a></td>
+        <td><a href="https://github.com/The-Owogs/Akademic">Repo</a></td>
     </tr>
     
 </table>
